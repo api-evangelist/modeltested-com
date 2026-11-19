@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Model Tested evaluates and ranks AI models by testing them on real-world tasks. The site publishes detailed reviews, performance rankings, and methodology for over 70 models, updated regularly. It offers guides, leaderboards, and insights to help developers and businesses choose the right model for their needs.
+Model Tested provides a curated platform that evaluates and ranks AI models, offering detailed reviews, benchmarks, and guidance on selecting the right model for various tasks. The site features leaderboards, coding and decision model assessments, hardware recommendations, and in‑depth analysis of model performance, accuracy, and resource requirements, helping developers and enterprises make informed choices about deploying AI solutions.
 
-**Areas:** AI · Reviews · Rankings · Guides · Technology
+**Areas:** Company · AI · Reviews · Benchmarking · Platform
 
 ## Model Tested on APIs.io
 
 Everything profiled for Model Tested is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/modeltested-com/](https://apis.io/providers/modeltested-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Model Tested API](https://apis.io/apis/modeltested-com/model-tested-api/) — API for Model Tested platform providing access to model reviews, benchmarks and rankings.
 
 ### Published properties
 
@@ -88,19 +92,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://modeltested.com/)
 - [Documentation](https://modeltested.com/topics/guides/)
-- [Blog](https://modeltested.com/posts/)
 
 ## API Evangelist rating
 
-**Kin Score 4.8** — minimal · rubric 0.28.0 · scored 2026-11-19
+**Kin Score 5.2** — minimal · rubric 0.28.0 · scored 2026-11-19
 
 | Facet | Score |
 |---|---|
-| Discoverability | 46.4 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 11.9 |
+| Developer ergonomics | 9.5 |
 | Access clarity | 0.0 |
 
 **Agent readiness 3.1** — human-only
